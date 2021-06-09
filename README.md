@@ -51,7 +51,7 @@ Responsible for receiving AJAX post requests from the client side, filtering the
 3. code editor (Atom, Notepad++, VSC)
 
 ## How to start the App:
-1. open GitBash or terminal on Linux/Mac
+1. open Git or terminal on Linux/Mac
 2. use `cd "folder-name"`
 3. `pip install - r requirements.txt`
 4. `export FLASK_APP=flaskr`
