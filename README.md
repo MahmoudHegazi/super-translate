@@ -46,11 +46,11 @@ Responsible for receiving AJAX post requests from the client side, filtering the
 
 ## installation requirements:
 1. Python
-2. For windows users (GitBash) / Linux or Mac User can use terminal python
+2. For windows users (GIT) / Linux or Mac User can use terminal python
 3. code editor (Atom, Notepad++, VSC)
 
 ## How to start the App:
-1. open Git or terminal on Linux/Mac
+1. open GitBash or terminal on Linux/Mac
 2. use `cd "folder-name"`
 3. `pip install - r requirements.txt`
 4. `export FLASK_APP=flaskr`
