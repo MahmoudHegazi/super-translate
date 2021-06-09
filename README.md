@@ -17,8 +17,7 @@ a Flask application has been created that communicate with (IBM Watson™ Langua
 a Flask application which can be used to allow the user to select the source language and target language and enter the text to be translated, then securely send the data to the server using a POST (AJAX) request, then the server sends a request to IBM Watson API in the source and target language and the text to be translated, in return the translation API will return the translated text or an error in the response to the server and then the server will send the response back to the client side, JavaScript will use the data returned and display the translated text in the UI or display an error if It was found. (Jinja2 is used to display the supported languages)
 
 
-### Languages, Libraries, techniques, Packages (Operating environment):
-
+### Langages, Libraires, techniques, Packages (Operating environnement):
 1. Python
 2. JavaScript
 3. HTML5
