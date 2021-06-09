@@ -6,7 +6,7 @@
 This is a Python/Flask translation app, it translates text from one language to another,
 Supports 80 languages. Application based on the IBM Watson™ Language Translator API. The application has an easy-to-use user interface that is similar to Google Translate
 
-## Problem statemen:
+## Problem statement:
 Create Python translate application that can be used to translates text from one language to another.
 
 ## Proposed solution:
